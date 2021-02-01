@@ -4,25 +4,63 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://dri.es/files/cache/blog/javascript-powered-multichannel-1280w.gif",
+        "title": "Para que serve o método unshift da classe array?",
+        "description": "Questão 1",
+        "answer": 3,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Remove todos os elementos de um array",
+          "Remove o último elemento do array",
+          "Adiciona um elemento a última posição do array",
+          "Adiciona um elemento na primeira posição do array"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/11/27155450/aprender-react.png",
+        "title": "O React é uma biblioteca JavaScript de código aberto e, atualmente, é uma das ferramentas mais populares entre os desenvolvedores web. São características do React ser uma biblioteca",
+        "description": "Questão 2",
+        "answer": 2,
+        "alternatives": [
+          "declarativa, que não gerencia seu próprio virtual DOM e não permite a criação de aplicativos móveis.",
+          "imperativa, que não gerencia seu próprio virtual DOM e não dá suporte a componentes reutilizáveis.",
+          "declarativa, que gerencia seu próprio virtual DOM e permite a criação de aplicativos móveis.",
+          "imperativa, que gerencia seu próprio virtual DOM e dá suporte a componentes reutilizáveis."
+        ]
+      },
+      {
+        "image": "https://miro.medium.com/max/5120/1*mp91A9RzagntGGjBnwu4Yw.png",
+        "title": "Em um arquivo NodeJS o que significa a linha\nlet http = require('http');",
+        "description": "Questão 2",
+        "answer": 1,
+        "alternatives": [
+          "Cria um objeto da classe require",
+          "Inclui o módulo HTTP",
+          "Dispara um request HTML",
+          "invoca a função require, definida pelo usuário"
+        ]
+      },
+      {
+        "image": "https://blog.vulpi.com.br/wp-content/uploads/2018/05/embed-javascript-in-Weebly.jpg",
+        "title": "Qual o valor de num na expressão `let num = 3 ** 3`",
+        "description": "Questão 2",
+        "answer": 3,
+        "alternatives": [
+          "3",
+          "9",
+          "18",
+          "27"
+        ]
+      },
+      {
+        "image": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/07/Como-Combinar-JavaScript-Externo-no-WordPress-.png",
+        "title": "Qual o resultado de console.log(typeof Object);",
+        "description": "Questão 2",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "function",
+          "undefined",
+          "object",
+          "null"
         ]
       }
     ],
@@ -38,6 +76,6 @@
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },
-      "borderRadius": "4px"
+      "borderRadius": "10px"
     }
   }
