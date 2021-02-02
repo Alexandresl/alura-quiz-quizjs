@@ -65,12 +65,13 @@
       }
     ],
     "external": [
-      ""
+      "https://mrrobot-quiz.xandowski.vercel.app/",
+      "https://aluraquiz-css.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
         "primary": "#ff9800",
-        "secondary": "#d81b60",
+        "secondary": "#333",
         "mainBg": "#b28704",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",

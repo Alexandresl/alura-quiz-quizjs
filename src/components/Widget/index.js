@@ -59,10 +59,12 @@ Widget.Topic = styled.a`
   border-radius: ${({ theme }) => theme.borderRadius};
   transition: .3s;
   display: block;
+  overflow: hidden;
   
   &:hover,
   &:focus {
     opacity: .5;
+    box-shadow: 0 0 5px #fff;
   }
 `;
 
